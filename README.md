@@ -1,14 +1,17 @@
 # `axios-and-chalk-demo`
 
 To run this demo, execute the following:
+
 ```
 $ git clone git@github.com:Hopding/axios-and-chalk-demo.git
 $ cd axios-and-chalk-demo
 $ npm install
 $ node demo.js
 ```
+
 This will generate the following output:
-<img src="assets/output.png" alt="project output" />
+
+<img height="300" src="assets/output.png" alt="project output" />
 
 # Prerequisites
 
